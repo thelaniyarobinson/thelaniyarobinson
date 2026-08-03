@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi, I'm La'Niya 👋
 
-<!--
-**thelaniyarobinson/thelaniyarobinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Learning Python and building automation/data projects. Currently focused on writing cleaner scripts and getting comfortable working with real datasets.
 
-Here are some ideas to get you started:
+Working on: Python fundamentals → automation scripts → data analysis with pandas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building:
+
+🔧 A script that automates a repetitive task (see pinned repos)
+📊 A small data-cleaning/analysis project
+
+Tools I'm learning: Python, pandas, Git/GitHub, VS Code
+
+📫 Reach me: laniya@laniyadanyelle.com
