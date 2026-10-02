@@ -1,14 +1,30 @@
-Hi, I'm La'Niya 👋
+ Hi, I'm La'Niya 👋🏽
 
-Learning Python and building automation/data projects. Currently focused on writing cleaner scripts and getting comfortable working with real datasets.
+🎓 Computer Information Systems student at Georgia State University  
+💻 Exploring technology, AI, data, and technical sales  
+🏢 Licensed real estate professional with an interest in commercial real estate  
+🚀 Building technical projects and gaining hands-on experience through hackathons
 
-Working on: Python fundamentals → automation scripts → data analysis with pandas
+## Featured Project
 
-Currently building:
+### ⚽ MatchFlow
+A soccer tracking and clip-making application developed during the US Soccer × ColorStack Tech League Hackathon.
 
-🔧 A script that automates a repetitive task (see pinned repos)
-📊 A small data-cleaning/analysis project
+I contributed across product ideation, feature direction, branding, UX feedback, testing, and presentation while collaborating with the team throughout development.
 
-Tools I'm learning: Python, pandas, Git/GitHub, VS Code
+🔗 Live Demo: https://matchflowgirly.netlify.app/
 
-📫 Reach me: laniya@laniyadanyelle.com
+## Currently Building
+
+🐍 Python fundamentals and automation  
+📊 Data analysis with pandas  
+🤖 AI-assisted development workflows  
+🛠️ Git, GitHub, and VS Code
+
+## Interests
+
+Technical Sales • AI • Data • FinTech • Real Estate Technology • Commercial Real Estate
+
+## Connect With Me
+
+📫 laniya@laniyadanyelle.com
